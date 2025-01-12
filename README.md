@@ -1,5 +1,7 @@
 # React + Vite
-
+ini adalah proyek aplikasi tema kebencanaan pada kekeringan, untuk keperluan uas pemrograman sisi klien
+oleh :
+Bintang Ilham Kurniawan - A11.2022.14399
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
